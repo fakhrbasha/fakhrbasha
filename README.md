@@ -15,7 +15,7 @@
 
 <br><br>
 
-- :school: I am a `Student` at [Faculty of Computers & AI] at [Sadat City University].
+- :school: I am a `Student` at `Faculty of Computers & AI` at `Sadat City University`.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
@@ -101,7 +101,7 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/visual%20studio-purple?style=for-the-badge&logo=PHP"></a>
+    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-purple?style=plastic&logo=visual%20studio"></a>
   
 </p>
 
