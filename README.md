@@ -52,7 +52,7 @@
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3schools.com/php/default.asp" target="_blank"> 
-    <img alt="PHP" src="https://drive.google.com/file/d/16WmcPG3tIdBtkIYUQK_-BSBbpLYkOpkJ/view">
+    <img alt="PHP" src="https://img.shields.io/badge/php-blue?style=plastic&logo=PHP">
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
@@ -60,7 +60,7 @@
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cs/index.php" target="_blank"> 
-    <img alt="C#" src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=C%23">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-purple?style=plastic&logo=C%23">
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
@@ -93,7 +93,7 @@
   &emsp;
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   
-    &emsp;
+  &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
@@ -170,13 +170,4 @@
 	
 
 </br></br>
-	
-## 🐍 A Snake Eating my Contributions Graph
-<p align="center">
-  <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fakhrbasha/fakhrbasha/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fakhrbasha/fakhrbasha/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fakhrbasha/fakhrbasha/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 	
