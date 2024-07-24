@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/fakhrbasha"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://drive.google.com/file/d/16WmcPG3tIdBtkIYUQK_-BSBbpLYkOpkJ/view"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
+	<a href="https://icpc.global/ICPCID/HEIMRAMZ5PQ2"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
 	
 </p>
 
