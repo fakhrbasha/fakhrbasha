@@ -55,14 +55,7 @@
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
-<p align="center">
-  &emsp;
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-</p>
+![Linux](https://img.shields.io/badge/linux-%23F05033.svg?style=for-the-badge&logo=linux&logoColor=white) ![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows&logoColor=white)
 
 <br> 
 
